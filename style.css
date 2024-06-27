@@ -1,0 +1,28 @@
+body{
+    font-family: "Indie Flower", cursive;   
+}
+
+h1{
+    font-size: 70px;
+}
+.name{
+    color: blueviolet;    
+}
+.niloy{
+    color: red;
+    font-size: 40px;
+}
+.frist-line{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    position: 3%;
+    
+}
+
+.frist-line p{
+    font-size: 30px;
+}
+.frist-line img{
+    width: 100%;
+}
